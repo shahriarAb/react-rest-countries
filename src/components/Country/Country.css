@@ -1,0 +1,17 @@
+.country-style{
+    background-color: rgb(200, 231, 241);
+    border: 2px solid rgba(115, 138, 138, 0.795);
+    margin: 5px;
+    border-radius: 7px;
+    box-shadow: 3px 5.5px 5.5px hsl(0deg 0% 0% / 0.4);
+    transition: ease-in-out 0.7s;
+}
+
+.country-style:hover{
+    transform: scale(1.07);
+}
+
+.country-style img{
+    margin-top: 10px;
+    width: 120px;
+}
